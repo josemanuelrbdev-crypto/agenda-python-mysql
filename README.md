@@ -19,7 +19,7 @@ Sistema de gestión de contactos (CRUD) desarrollado en Python con persistencia 
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/josemanuelrbdev-crypto/agenda-python-mysql.git](https://github.com/josemanuelrbdev-crypto/agenda-python-mysql.git)
+git clone https://github.com/josemanuelrbdev-crypto/agenda-python-mysql.git
 
 
 2. Instalar dependencias
